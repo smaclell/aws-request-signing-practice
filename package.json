@@ -1,0 +1,12 @@
+{
+  "name": "signer",
+  "version": "0.1.0",
+  "description": "AWS Signed requests playground",
+  "scripts": {},
+  "keywords": [],
+  "author": "Scott MacLellan",
+  "license": "MIT",
+  "devDependencies": {
+    "crypto-js": "^3.1.6"
+  }
+}
